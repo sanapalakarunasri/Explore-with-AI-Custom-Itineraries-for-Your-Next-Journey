@@ -1,1 +1,1 @@
-
+The video demonstrates the working of the Explore with AI web application. It shows how users enter a destination and trip duration, and how the system generates a personalized, day-wise travel itinerary using AI. The demo highlights the user interface, AI integration, and real-time itinerary generation.
